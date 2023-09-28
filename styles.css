@@ -9,6 +9,10 @@ selector
 
 /* diagnostic styling */
 * {
+    /* 
+        we put outline for visual debugging.
+        remove it later so it looks better.
+    */
     outline: 1px dotted gray;
   }
   
